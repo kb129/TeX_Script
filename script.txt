@@ -1,1 +1,0 @@
-C:\w32tex\share\texworks\twdata\scriptsにフォルダごと（UsersScriptごと）おいてください
